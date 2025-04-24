@@ -1,27 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 16,
-      "end_time": 25,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Facts"
-        }
-      ],
-      "uuid": "f6d606d4-0c13-49c9-bcf8-7e3767868b5a"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "eb596255-2774-471f-98f9-20d101251176",
   "source_id": "3e55d1fc-e01c-42f8-bb42-20086809ce90"
