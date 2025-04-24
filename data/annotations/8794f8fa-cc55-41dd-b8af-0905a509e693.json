@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 16,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This introduces credibility with the listener "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Ethos , Purpose, Location"
-        }
-      ],
-      "uuid": "b1ae5e36-5793-47b4-8a08-da7d7abef225"
-    },
-    {
       "start_time": 16,
       "end_time": 25,
       "annotation": [
