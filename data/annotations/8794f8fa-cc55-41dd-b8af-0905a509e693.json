@@ -1,5 +1,48 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This introduces credibility with the listener "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos , Purpose, Location"
+        }
+      ],
+      "uuid": "b1ae5e36-5793-47b4-8a08-da7d7abef225"
+    },
+    {
+      "start_time": 16,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Facts"
+        }
+      ],
+      "uuid": "f6d606d4-0c13-49c9-bcf8-7e3767868b5a"
+    }
+  ],
   "set": "Default",
   "event_id": "eb596255-2774-471f-98f9-20d101251176",
   "source_id": "3e55d1fc-e01c-42f8-bb42-20086809ce90"
